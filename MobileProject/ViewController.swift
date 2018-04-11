@@ -29,6 +29,7 @@ class ViewController: UIViewController {
         }
         print(myArr.count)
         print("mobile name is \(mobileModelObj.name)")
+        print("mobile number is \(mobileModelObj.number)")
         
         
         
